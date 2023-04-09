@@ -1,8 +1,8 @@
 package Main;
 
-import Models.Caja;
-import Models.Camisa;
-import Models.Ticket;
+import Controlador.Caja;
+import Modelo.Camisa;
+import Controlador.Ticket;
 
 public class main {
     public static void main(String[]args){

@@ -1,8 +1,8 @@
 
 package Tests;
 
-import Models.Caja;
-import Models.Camisa;
+import Controlador.Caja;
+import Modelo.Camisa;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

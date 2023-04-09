@@ -1,4 +1,4 @@
-package Models;
+package Modelo;
 
 public class Camisa {
     
